@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding: 0;
+    background: gray;
+}
+
+#user-input{
+    float: left;
+    width: 30%;
+}
+
+#user-reviews{
+    float: right;
+    width:68%;
+}
+
